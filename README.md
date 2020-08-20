@@ -33,24 +33,27 @@ Each of the 3 signals (Body Acceleration, Angular Velocity, Total Acceleration) 
 
 There are 10,299 observations within the dataset, with training and test set split at 70% / 30%.
 
-IMG
+<img src="img/activity count.png">
 
 ## Data Visualisation
 
 Simple lineplot for each activity was produced:
-e.g.
-
-IMG
+<p>
+e.g. Standing vs Walking
+    
+<img src="img/Signals Standing.png"><img src="img/Signals Walking.png">
 
 This is an misrepresentation of the xyz axial data being separated as different lines, therefore 3D plot is produced instead.
-e.g.
+<p>
+e.g. Body Acceleration: Standing vs Walking
 
-IMG
+<img src="img/3D Body acceleration Standing.png"><img src="img/3D Body acceleration Walking.png">
 
 The above 3D plot is difficult to interpret and human eyes cannot distinguish when the observation starts and ends. A treatment of the 3-axial data to calculate the distance of the data point at each timesteps from the origin (x,y,z=0,0,0)
-e.g.
-
-IMG
+<p>
+e.g. Body Acceleration: Standing vs Walking
+    
+<img src="img/distance Body acceleration Standing.png"><img src="img/distance Body acceleration Walking.png">
 
 The above graphs can clearly present the notable difference in pattern between the different activities.
 
