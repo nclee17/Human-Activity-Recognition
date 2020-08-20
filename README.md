@@ -58,4 +58,32 @@ The above graphs can clearly present the notable difference in pattern between t
 
 The CNN-LSTM model was trained with data directly feeding into the neural network without feature engineering.
 
-GridSearchCV was used for hyperparameter tuning, and EarlyStopping was used on the final model.
+GridSearchCV was used for hyperparameter tuning, and EarlyStopping was applied on the final model.
+
+## Results
+
+To be added...
+
+## References
+
+The [dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) can be found on the UCI Machine Learning Repository:
+
+> Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
+
+## Afterwords
+
+This is my final project for the Ironhack Data Analytics bootcamp, the presentation has won the data analytics category at the Ironhack Hackshow Paris August 2020.
+
+<p align="center">
+  <a href="https://ironhack.zoom.us/rec/share/7JxQLbHy3DtIT6fkq0r9f5wYGKe9X6a8gXMWrPsLxEgOztkzkZT6OitgEewzcP5X?startTime=1597680785000
+" target="_blank"><img src="Annotation 2020-08-08 183436.jpg"
+alt="Hackshow Paris August 2020" width="400" height="300" border="10" /></a>
+  <a href="https://ironhack.zoom.us/rec/share/7JxQLbHy3DtIT6fkq0r9f5wYGKe9X6a8gXMWrPsLxEgOztkzkZT6OitgEewzcP5X?startTime=1597680785000"><center>[Watch video at 00:31:10]</center></a>
+</p>
+
+I would like to extend my gratitude to my tutor [Eldiias](https://github.com/Eldiias/) who has helped me in the understanding of the Neural Networks.
+
+### Contact Me
+
+- [LinkedIn](www.linkedin.com/in/sylvianclee)
+- [GitHub](https://github.com/nclee17/)
