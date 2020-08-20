@@ -47,13 +47,25 @@ This is an misrepresentation of the xyz axial data being separated as different 
 <p>
 e.g. Body Acceleration: Standing vs Walking
 
-<img src="img/3D Body acceleration Standing.png"><img src="img/3D Body acceleration Walking.png">
+<div class="row">
+  <div class="column">
+    <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img/3D Body acceleration Walking.png" alt="Walking" style="width:100%">
+  </div>
 
 The above 3D plot is difficult to interpret and human eyes cannot distinguish when the observation starts and ends. A treatment of the 3-axial data to calculate the distance of the data point at each timesteps from the origin (x,y,z=0,0,0)
 <p>
 e.g. Body Acceleration: Standing vs Walking
-    
-<img src="img/distance Body acceleration Standing.png"><img src="img/distance Body acceleration Walking.png">
+  
+<div class="row">
+  <div class="column">
+    <img src="img/distance Body acceleration Standing.png" alt="Standing" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img/distance Body acceleration Walking.png" alt="Walking" style="width:100%">
+  </div>
 
 The above graphs can clearly present the notable difference in pattern between the different activities.
 
