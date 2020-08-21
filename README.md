@@ -46,15 +46,12 @@ e.g. Standing vs Walking
 This is a misrepresentation of the xyz axial data being separated as different lines, therefore 3D plot is produced instead.
 <p>
 e.g. Body Acceleration: Standing vs Walking
-
-<div class="row">
-  <div class="column">
-    <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width:40%"/>
-  </div>
-  <div class="column">
-    <img src="img/3D Body acceleration Walking.png" alt="Walking" style="width:40%"/>
-  </div>
-
+<p>
+<tr>
+    <td> <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width: 40%;"/> </td>
+    <td> <img src="img/3D Body acceleration Walking.png" alt="Walking" style="width: 40%;"/> </td>
+</tr>
+<p>
 The above 3D plot is difficult to interpret and human eyes cannot distinguish when the observation starts and ends. A treatment of the 3-axial data to calculate the distance of the data point at each timesteps from the origin (x,y,z=0,0,0)
 <p>
 e.g. Body Acceleration: Standing vs Walking
