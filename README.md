@@ -46,6 +46,12 @@ e.g. Standing vs Walking
 This is a misrepresentation of the xyz axial data being separated as different lines, therefore 3D plot is produced instead.
 <p>
 e.g. Body Acceleration: Standing vs Walking
+<p float="middle">
+  <img src="img/3D Body acceleration Standing.png" width="400" />
+  <img src="img/3D Body acceleration Walking.png" width="400" /> 
+</p>
+
+
 <p>
 <tr>
     <td> <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width: 40%;"/> </td>
