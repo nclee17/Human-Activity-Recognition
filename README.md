@@ -85,7 +85,7 @@ The original model constructed for the project was conducted without the random 
 The training accuracy and loss curve suggest possibilities of overfit.
 
 <p align="center">
-<img src="img/Training Process Loss vs Accuracy.png" width="400" />
+<img src="img/Training Process Loss vs Accuracy.png" width="1000" />
 </p>
 
 ### Final Model
@@ -114,14 +114,10 @@ The training accuracy and loss curve suggest possibilities of overfit.
 ### Multi-class Confusion Matrix
 
 <p align="center">
-<img src="img/Confusion Matrix.png" width="700" />
+<img src="img/Confusion Matrix.png" width="1000" />
 </p>
 
-There are numerous observations of Walking Downstairs being identified by the model as Walking Upstairs, upon examining these cases, it was found that the signals between those false predictions share very similar visual pattern on the signal distance to origin plots as shown below.
-
-<p align="center">
-<img src="img/Confusion Matrix.png" width="700" />
-</p>
+There are numerous observations of Walking Downstairs being identified by the model as Walking Upstairs, upon examining these cases, it was found that the signals between those false predictions share very similar visual pattern on the signal distance to origin plots.
 
 ### Performnace Matrix
 
@@ -140,7 +136,7 @@ There are numerous observations of Walking Downstairs being identified by the mo
 ### ROC AUC
 
 <p align="center">
-<img src="img/ROC.png" width="700" />
+<img src="img/ROC.png" width="1000" />
 </p>
 
 ## Conclusion
