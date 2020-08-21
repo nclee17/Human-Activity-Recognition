@@ -51,24 +51,14 @@ e.g. Body Acceleration: Standing vs Walking
   <img src="img/3D Body acceleration Walking.png" width="400" /> 
 </p>
 
-
-<p>
-<tr>
-    <td> <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width: 40%;"/> </td>
-    <td> <img src="img/3D Body acceleration Walking.png" alt="Walking" style="width: 40%;"/> </td>
-</tr>
-<p>
 The above 3D plot is difficult to interpret and human eyes cannot distinguish when the observation starts and ends. A treatment of the 3-axial data to calculate the distance of the data point at each timesteps from the origin (x,y,z=0,0,0)
 <p>
 e.g. Body Acceleration: Standing vs Walking
-  
-<div class="row">
-  <div class="column">
-    <img src="img/distance Body acceleration Standing.png" alt="Standing" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="img/distance Body acceleration Walking.png" alt="Walking" style="width:50%">
-  </div>
+
+<p float="middle">
+  <img src="img/distance Body acceleration Standing.png" width="450" />
+  <img src="img/distance Body acceleration Walking.png" width="450" /> 
+</p>
 
 The above graphs can clearly present the notable difference in pattern between the different activities.
 
