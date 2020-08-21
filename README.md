@@ -49,10 +49,10 @@ e.g. Body Acceleration: Standing vs Walking
 
 <div class="row">
   <div class="column">
-    <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width:35%">
+    <img src="img/3D Body acceleration Standing.png" alt="Standing" style="width:40%"/>
   </div>
   <div class="column">
-    <img src="img/3D Body acceleration Walking.png" alt="Walking" style="width:35%">
+    <img src="img/3D Body acceleration Walking.png" alt="Walking" style="width:40%"/>
   </div>
 
 The above 3D plot is difficult to interpret and human eyes cannot distinguish when the observation starts and ends. A treatment of the 3-axial data to calculate the distance of the data point at each timesteps from the origin (x,y,z=0,0,0)
