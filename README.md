@@ -56,8 +56,8 @@ The above 3D plot is difficult to interpret and human eyes cannot distinguish wh
 e.g. Body Acceleration: Standing vs Walking
 
 <p float="middle">
-  <img src="img/distance Body acceleration Standing.png" width="450" />
-  <img src="img/distance Body acceleration Walking.png" width="450" /> 
+  <img src="img/distance Body acceleration Standing.png" width="400" />
+  <img src="img/distance Body acceleration Walking.png" width="400" /> 
 </p>
 
 The above graphs can clearly present the notable difference in pattern between the different activities.
