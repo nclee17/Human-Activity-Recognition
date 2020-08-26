@@ -119,7 +119,7 @@ The training accuracy and loss curve suggest possibilities of overfit.
 
 There are numerous observations of Walking Downstairs being identified by the model as Walking Upstairs, upon examining these cases, it was found that the signals between those false predictions share very similar visual pattern on the signal distance to origin plots.
 
-### Performnace Matrix
+### Performance Matrix
 
            precision          recall  f1-score  support
 
