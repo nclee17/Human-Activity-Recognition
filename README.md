@@ -1,4 +1,4 @@
-# CNN_LSTM Model for Human Activity Recognition
+# CNN-LSTM Model for Human Activity Recognition
 
 Human Activity Recognition (HAR) from smartphone sensors signal dataset from [UCI Machine Learning Repositry](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names)
 The goal is to classify the type of movement amongst six activities:
