@@ -149,7 +149,7 @@ The [dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition
 
 > Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
 
-## Afterwords
+## Afterword
 
 This is my final project for the Ironhack Data Analytics bootcamp, the presentation has won the data analytics category at the Ironhack Hackshow Paris August 2020.
 
@@ -164,5 +164,5 @@ I would like to extend my gratitude to my tutor [Eldiias](https://github.com/Eld
 
 ### Contact Me
 
-- [LinkedIn](www.linkedin.com/in/sylvianclee)
+- [LinkedIn](https://www.linkedin.com/in/sylvianclee)
 - [GitHub](https://github.com/nclee17/)
